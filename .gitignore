@@ -1,0 +1,9 @@
+.env
+.env.*
+*.env
+*.mp4
+*.exe
+node_modules/
+vendor/
+build/
+dist/
